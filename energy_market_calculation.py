@@ -33,8 +33,8 @@ def calculate_profit(revenue, cost):
 
 if __name__ == "__main__":
     consumption = 3500  
-    production = 4200  
-    price_buy = 0.30    
+    production = 7000  
+    price_buy = 0.20    
     price_sell = 0.12   
 
     cost = calculate_cost(consumption, price_buy)
