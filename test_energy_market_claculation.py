@@ -1,7 +1,7 @@
 from energy_market_calculation import (
     calculate_cost,
-    calculate_revenue,
     calculate_profit,
+    calculate_revenue,
 )
 
 
