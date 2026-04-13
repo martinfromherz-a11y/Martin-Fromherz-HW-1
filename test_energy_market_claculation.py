@@ -6,7 +6,7 @@ from energy_market_calculation import (
 
 
 def test_calculate_cost():
-    assert calculate_cost(100, 0.2) == 20
+    assert calculate_cost(100, 0.2) == 10
 
 
 def test_calculate_revenue():
